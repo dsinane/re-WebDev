@@ -63,7 +63,7 @@ body {
 }
 #talon-cover {
     height: 350px;
-    background-image: url("https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/Skin_Splash_Classic_Talon.jpg/revision/latest?cb=20191211181546");
+    background-image: url("talon.webp");
     background-repeat: no-repeat;
     background-position: 10% 40%;
     display: flex;
